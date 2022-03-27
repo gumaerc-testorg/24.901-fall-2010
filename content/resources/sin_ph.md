@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 52b0792e-d6ee-155e-eb47-087fbada3cb6
 resourcetype: Other
 title: sin_ph.mp3
 uid: 42ce58cc-66a2-55ce-74e6-af3935a787f3

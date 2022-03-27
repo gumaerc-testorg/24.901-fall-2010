@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 52b0792e-d6ee-155e-eb47-087fbada3cb6
 resourcetype: Other
 title: fr_korean.mp3
 uid: b7cfc51f-5972-dc9e-618c-11e82ad4a140
