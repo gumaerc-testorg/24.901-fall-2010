@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: eefb83c8-0edb-83f1-0943-78f8c3720e2c
 ---
@@ -14,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/), or permission of instructor.
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012), or permission of instructor.
 
 Course goals
 ------------
