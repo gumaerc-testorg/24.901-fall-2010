@@ -1,9 +1,11 @@
 ---
 content_type: page
+description: This readings section provides the list of required texts for the course,
+  the schedule of readings by session, and a list of additional useful textbooks,
+  reference books, and journals arranged by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: e7d8fd9b-33dc-4c23-e410-bbccf9ec1694
 ---
@@ -142,7 +144,7 @@ Phonetics II: acoustics of consonants
 
 \[CIP\], chapter 6
 
-Lisker, Leigh, and Arthur S. Abramson. "A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements." _Word_ 20, no. 3 (1964): 384-422. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://www.haskins.yale.edu/Reprints/HL0053.pdf))
+Lisker, Leigh, and Arthur S. Abramson. "A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements." _Word_ 20, no. 3 (1964): 384-422. ([PDF - 1.8MB](http://www.haskins.yale.edu/Reprints/HL0053.pdf))
 
 
 {{< tdclose >}}

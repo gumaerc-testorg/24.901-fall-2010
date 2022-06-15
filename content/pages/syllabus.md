@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  prerequisites, format, and grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: eefb83c8-0edb-83f1-0943-78f8c3720e2c
 ---
