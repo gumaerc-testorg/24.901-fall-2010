@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course and the schedule
+  of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f13bd08c-1a2c-bead-070e-02b37bc48ce1
 ---
@@ -28,7 +33,7 @@ LECTURE NOTES
 Introduction, course overview, vowels: articulatory description and transcription
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec01))
+({{% resource_link c6e5ecf2-2825-5e9a-3fa1-888befaea80f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Introduction, course overview, vowels: articulatory description and transcriptio
 Consonants: articulatory description and transcription; distinctive features
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec02))
+({{% resource_link b5beddc9-a9eb-69d3-5639-e993c284c203 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Consonants: articulatory description and transcription; distinctive features
 Phonological versus phonetic representations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec04))
+({{% resource_link fd2a6448-a1c7-dadf-7b95-cce805250df5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Phonological versus phonetic representations
 Alternations and derivations I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec05))
+({{% resource_link 6e889041-2f67-fccd-d8de-c4e830d362d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Alternations and derivations I
 Alternations and derivations II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec06))
+({{% resource_link 6452cb8d-4e7b-57a3-7d07-6cac07d76e96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Alternations and derivations II
 Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec07))
+({{% resource_link d08ecf93-858a-789a-24a2-47497c8b339e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ Constraints
 Phonetics I: acoustics of vowels, using Praat
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec08))
+({{% resource_link bc254c20-3b84-39c1-532d-3c14531eeced "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Phonetics I: acoustics of vowels, using Praat
 Phonetics II: acoustics of consonants
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_901f10_lec09))
+({{% resource_link a4ec056e-b233-188c-9d10-626822d08a37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ Phonetics II: acoustics of consonants
 Phonetics III: suprasegmentals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec10))
+({{% resource_link 3ba327c8-4ba0-087d-f316-67aff086a901 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ Phonetics III: suprasegmentals
 Feature geometry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec11))
+({{% resource_link 9b742bc8-2455-d27a-ac3e-351e319bf60e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +165,7 @@ Course review
 Sociolinguistic variables
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec13))
+({{% resource_link 3f5330e1-27ab-9f1c-6e2f-ff1d86deb310 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +177,7 @@ Sociolinguistic variables
 American English dialects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec14))
+({{% resource_link db28555c-6d15-321e-7d16-95858df86e38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ American English dialects
 Tone I: African languages
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec15))
+({{% resource_link 30b98b7c-f63e-1721-c300-1c55d4a6abeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ Tone I: African languages
 Tone II: Asian languages
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec16))
+({{% resource_link 29f8303b-009b-0b00-21f9-08e50a946488 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +213,7 @@ Tone II: Asian languages
 Tone III: intonation and phrasing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec17))
+({{% resource_link 22a4f1bf-013a-9a1b-42ae-3c22dd98b49a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Tone III: intonation and phrasing
 Syllables I: structure and syllabification
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec18))
+({{% resource_link 9a1bf19d-430e-fffe-fb40-e906edf124b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +237,7 @@ Syllables I: structure and syllabification
 Syllables II: sonority
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec19))
+({{% resource_link 5e3cbfca-32a1-a0c4-297e-ff6552236f6c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +249,7 @@ Syllables II: sonority
 Stress I: prominence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec20))
+({{% resource_link 508b5036-3472-6de0-743c-950c96059ca0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Stress I: prominence
 Stress II: rhythm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec21))
+({{% resource_link 1475870d-fdd9-a298-d0ef-10bfac27a6c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Stress II: rhythm
 Stress III: weight
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec22))
+({{% resource_link c0b14ca6-2b10-261a-cfe0-bd46ff50351d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +285,7 @@ Stress III: weight
 Prosodic morphology: reduplication and truncation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec23))
+({{% resource_link 8fa106be-e187-b3b2-70b2-b7f8e3e9b837 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +297,7 @@ Prosodic morphology: reduplication and truncation
 Loanword phonology
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_901f10_lec24))
+({{% resource_link a257d214-96f9-c4bf-2f23-f7f9522011d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +309,7 @@ Loanword phonology
 Review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_901f10_lec25))
+({{% resource_link 28f5e025-d657-f3f0-b907-99dbd141addf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

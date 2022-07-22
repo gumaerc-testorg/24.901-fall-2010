@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  prerequisites, format, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: eefb83c8-0edb-83f1-0943-78f8c3720e2c
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/), or permission of instructor.
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012), or permission of instructor.
 
 Course goals
 ------------

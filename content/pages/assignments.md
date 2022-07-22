@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains homework assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 72b1d94b-ffaa-db07-eeb9-d71bc063e4b2
 ---
@@ -94,7 +98,7 @@ Alternations and derivations II
 Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-Using Praat ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn07))
+Using Praat ({{% resource_link 57a40118-1ac8-c398-901e-1cb029bc3f7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +110,7 @@ Using Praat ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn07))
 Phonetics I: Acoustics of vowels, using Praat
 {{< tdclose >}}
 {{< tdopen >}}
-Thai vowels ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn08))
+Thai vowels ({{% resource_link df4a8d1c-16dc-9493-0692-31e9b2775e78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +122,7 @@ Thai vowels ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn08))
 Phonetics II: Acoustics of consonants
 {{< tdclose >}}
 {{< tdopen >}}
-English consonants ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn09))
+English consonants ({{% resource_link 7420622e-5579-9919-d7cd-48298c7ea11c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +218,7 @@ Tone II: Asian languages
 Tone III: Intonation and phrasing
 {{< tdclose >}}
 {{< tdopen >}}
-Phan Rang ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn17))
+Phan Rang ({{% resource_link 9d89df01-333c-3331-bb54-e034abad6053 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +230,7 @@ Phan Rang ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn17))
 Syllables I: Structure and syllabification
 {{< tdclose >}}
 {{< tdopen >}}
-Miya ([PDF]({{< baseurl >}}/resources/mit24_901f10_assn18))
+Miya ({{% resource_link a4853823-77c4-956d-7ceb-98f4912dd1a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
