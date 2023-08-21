@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2010",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -36,6 +37,6 @@
   "learning_resource_types": [
     "Lecture Notes"
   ],
-  "site_uid": "ddd0ba69-6ac1-4085-b541-b3bbcf9c5395",
+  "site_uid": "ae26b4d7-6c01-4b14-83b4-90b97b4841a1",
   "title": "Course Metadata"
 }
