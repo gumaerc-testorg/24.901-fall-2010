@@ -12,25 +12,25 @@ Below are useful Web sites with helpful charts and sound files.
 Sound files
 -----------
 
-[Index of Sounds.](http://phonetics.ucla.edu/index/sounds.html#Anchor-Clicks-11481) Extensive index of sounds from Peter Ladefoged's UCLA archive.
+{{% resource_link "290447f2-e611-4067-8390-2b8976f67fe5" "Index of Sounds." %}} Extensive index of sounds from Peter Ladefoged's UCLA archive.
 
-[Handbook of the IPA: Sound Recordings](https://www.internationalphoneticassociation.org/content/sound-recordings)
+{{% resource_link "18b80086-b8a8-4a90-95ac-b1679ee3a5ea" "Handbook of the IPA: Sound Recordings" %}}
 
 General phonetics resources
 ---------------------------
 
-[UCLA Phonetics lab](http://www.linguistics.ucla.edu/faciliti/uclaplab.html)
+{{% resource_link "068e28ce-39f7-4ecf-93dc-93b966616114" "UCLA Phonetics lab" %}}
 
-[Peter Ladefoged](http://www.linguistics.ucla.edu/people/ladefoge/)'s personal webpage.
+{{% resource_link "5320fb04-eddd-4ee6-ac7b-e6588026d6aa" "Peter Ladefoged" %}}'s personal webpage.
 
-[_A Course in Phonetics_](http://phonetics.ucla.edu/course/contents.html)
+{{% resource_link "97473bb7-8df5-4f79-a450-298f093d4a52" "_A Course in Phonetics_" %}}
 
-[_Vowels and Consonants_](http://phonetics.ucla.edu/vowels/contents.html)
+{{% resource_link "89b48444-9b0d-4dd4-ae76-6d80eaf3d3a7" "_Vowels and Consonants_" %}}
 
-[International Phonetic Association](https://www.internationalphoneticassociation.org/)
+{{% resource_link "9a28604c-09a3-4609-8ef8-680cd4ab9755" "International Phonetic Association" %}}
 
-[Linguistics Handbook](http://web.uvic.ca/ling/resources/ipa/handbook.htm). University of Victoria Department of Linguistics.
+{{% resource_link "18def72c-a86b-4474-9cf1-dfb1472b44df" "Linguistics Handbook" %}}. University of Victoria Department of Linguistics.
 
-[Charis SIL Font](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=CharisSILfont). Available for free download.
+{{% resource_link "1c5c5aaf-024f-4c92-94a2-bf341da3d074" "Charis SIL Font" %}}. Available for free download.
 
-[Praat](http://www.fon.hum.uva.nl/praat/). Computer tool for linguistics available for free download.
+{{% resource_link "be16b015-4904-410a-8ab0-fd6046bc87c5" "Praat" %}}. Computer tool for linguistics available for free download.
