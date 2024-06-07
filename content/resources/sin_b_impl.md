@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for Sindhi 'b' implosive.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/2e3c5e6f5137487028c947a63a1ab9d3_sin_b_impl.mp3
+file_size: 10248
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
