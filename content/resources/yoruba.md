@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Yoruba.
-file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/d2ac5203c6d1b6096cfbb1ef70566cdf_yoruba.mp3
+file: /ol-ocw-studio-app/courses/24-901-language-and-its-structure-i-phonology-fall-2010/d2ac5203c6d1b6096cfbb1ef70566cdf_yoruba.mp3
 file_size: 99306
 file_type: audio/mpeg
 learning_resource_types: []
