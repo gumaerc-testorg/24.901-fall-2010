@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Japanese 'kasai'.
-file: /ol-ocw-studio-app/courses/24-901-language-and-its-structure-i-phonology-fall-2010/94a0010a9aa700620b3d872e283d145a_jap_kasai.mp3
+file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/94a0010a9aa700620b3d872e283d145a_jap_kasai.mp3
 file_size: 68460
 file_type: audio/mpeg
 learning_resource_types: []
