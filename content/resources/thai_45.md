@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Thai tones 45.
-file: /ol-ocw-studio-app/courses/24-901-language-and-its-structure-i-phonology-fall-2010/72329a114914552f02ea1531d240c944_thai_45.mp3
+file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/72329a114914552f02ea1531d240c944_thai_45.mp3
 file_size: 27338
 file_type: audio/mpeg
 learning_resource_types: []

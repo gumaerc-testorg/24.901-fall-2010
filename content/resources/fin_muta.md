@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Finnish 'muta'.
-file: /ol-ocw-studio-app/courses/24-901-language-and-its-structure-i-phonology-fall-2010/e739542761675bed6716d361e93e9c95_fin_muta.mp3
+file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/e739542761675bed6716d361e93e9c95_fin_muta.mp3
 file_size: 126670
 file_type: audio/mpeg
 learning_resource_types: []
