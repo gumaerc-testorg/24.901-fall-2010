@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Japanese 'sama-kana-gakusha'.
-file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/aa69cdeb65cb7d837daea2d8a03448f6_jap_sama.mp3
+file: /ol-ocw-studio-app/courses/24-901-language-and-its-structure-i-phonology-fall-2010/aa69cdeb65cb7d837daea2d8a03448f6_jap_sama.mp3
 file_size: 82794
 file_type: audio/mpeg
 learning_resource_types: []
